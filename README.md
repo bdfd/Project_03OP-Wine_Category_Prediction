@@ -32,7 +32,7 @@ Classify propety into Binary Category by using following fileds to identify the 
 
 | Field                | Description | Unit | dtype               | Comments             |
 | -------------------- | ----------- | ---- | ------------------- | -------------------- |
-| Table 1              | wine.csv    |      | Continous           | ----------           |
+| Table 1              | wine.csv    |      |                     | ----------           |
 | Fixed Acidity        |             |      | Continous           | ----------           |
 | Volatile Acidity     |             |      | Continous           | ----------           |
 | Citric Acid          |             |      | Continous           | ----------           |
